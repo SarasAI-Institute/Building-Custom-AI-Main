@@ -23,7 +23,6 @@ By the end of this week you can:
 |---|---|---|
 | [`week1_foundations_and_vlm_defect_detection.ipynb`](week1_foundations_and_vlm_defect_detection.ipynb) | The live-session notebook, fully annotated — every cell explained | During/after the session; works as complete self-study |
 | [`week1_workbook.ipynb`](week1_workbook.ipynb) | The live-coding workbook — the same notebook with the core cells left as TODOs | What we code together in the session |
-| [`week1_concepts.pptx`](week1_concepts.pptx) | The concept deck (Transformer in 3 ideas · what a VLM is · variable image sizes · frozen-split evaluation) | Opened before each coding block in the session |
 | [`assignment/`](assignment/) | **Ungraded practice** — 12 tasks across 5 parts with self-checks, plus a full solution notebook | After the session, ~60–90 min |
 
 ## The live session (2 hours)
