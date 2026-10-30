@@ -1,0 +1,22 @@
+{
+  "inspector": {
+    "model_id": "HuggingFaceTB/SmolVLM2-2.2B-Instruct",
+    "revision": null,
+    "prompt": null,
+    "processor_kwargs": {},
+    "max_new_tokens": 120
+  },
+  "corpus_path": "rag_practice_snapshot_v1.json",
+  "source_products_path": "source_products.json",
+  "chunk_words": 120,
+  "chunk_overlap": 30,
+  "retrieval_k": 4,
+  "embedding_revision": null,
+  "analyst": {
+    "path": "analyst-merged",
+    "arm": null,
+    "compute_dtype": null,
+    "review_record": "analyst_compression_v1/human_decision.json"
+  },
+  "context_budget": 2048
+}
